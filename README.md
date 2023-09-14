@@ -17,7 +17,7 @@ We conducted tests on these three datasets using our Table-SGD and compared the 
 
 We obtained the original dataset from the official site and performed some preprocessing to convert all data into a numerical format that can be easily processed by the model.
 
-![Table-SGD vs. GD](image/Epoch.png)
+![Table-SGD vs. GD](Table-sgd-epoch.png)
 
 ## Reference
 
