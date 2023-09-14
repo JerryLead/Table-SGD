@@ -6,11 +6,6 @@
 python run/sgd.py <path to dataset> --project=<wandb project name> --dataset=<dataset name>
 ```
 
-To enable differential privacy (DP), add the *--use_DP=True* flag and specify the *max_per_sample_clip_norm* and *target_epsilon values*. For example:
-
-```sh
-python run/sgd.py <path to dataset> --project=<wandb project name> --dataset=<dataset name> --use_DP=True --max_per_sample_clip_norm=1 --target_epsilon=1
-```
 
 ## Results
 
