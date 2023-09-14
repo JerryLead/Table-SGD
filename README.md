@@ -9,7 +9,7 @@ python run/sgd.py <path to dataset> --project=<wandb project name> --dataset=<da
 
 ## Results
 
-We conducted tests on these three datasets using our Table-SGD and compared the results with baseline [GD](#Reference).
+We conducted tests on these three datasets using our Table-SGD and compared the results with baseline [GD](#Reference)[1,2,3,4].
 
 1. MIMIC-III
 2. Yelp
